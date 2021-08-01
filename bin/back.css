@@ -1,0 +1,12 @@
+.text-area {
+    text-area-background: black ;
+    
+}
+
+.text-area .scroll-bar:vertical:disabled {
+    -fx-opacity: 0;
+}
+
+.text-area .content {
+    -fx-background-color: text-area-background ;
+}
